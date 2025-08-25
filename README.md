@@ -39,20 +39,13 @@
   
   <!-- Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="50" height="50" />
   
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="50" height="50" />
 </p>
-
----
-
-## 📌 Sobre mim  
-- 🎓 **Formação Técnica:** Técnico em Análise e Desenvolvimento de Sistemas pela **ETEC Dr. José Luiz Viana Coutinho**  
-- 📘 Atualmente **cursando Análise e Desenvolvimento de Sistemas** na Fatec Jales  
-- 📍 Experiência prévia na **Sabesp**, com funções de atendimento ao público e auxiliar de escritório  
-- 🚀 Buscando sempre evoluir e contribuir com projetos open-source e profissionais  
 
 ---
 
@@ -60,11 +53,8 @@
 
 <div align="center">
   
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosFelipeS7&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosFelipeS7&layout=compact&theme=radical)  
 
 </div>
 
 ---
-
-⭐ Se gostou do meu perfil, sinta-se à vontade para se conectar comigo no LinkedIn ou explorar meus repositórios!
